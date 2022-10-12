@@ -1,0 +1,2 @@
+# Plant_leaf_detector_android_app
+This is an android app that uses a deep learning model trained using CNN. The datasets used are from kaggle about 10000 images, which have all been used to train the model. The model was trained using jupyter notebook and tensorflow and the data preparation and data analysis was done using python. This android app can detect any disease of the plants trained in the model with an accuracy of 0.8912 which is equivalent to 89%.
